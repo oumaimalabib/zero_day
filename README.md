@@ -1,4 +1,2 @@
 # My first readme
-* 1 
-* 2
-* 3
+This is my first readme file
